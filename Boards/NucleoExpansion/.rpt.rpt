@@ -1,0 +1,68 @@
+** Drc report for C:\Users\jiris\Documents\Projekty\KiCAD\NucleoExpansion\NucleoExpansion.kicad_pcb **
+** Created on  **
+
+** Found 20 DRC errors **
+ErrType(19): Pad near pad
+    @ (20.235 mm,26.670 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of REF**
+    @ (22.860 mm,26.670 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of REF**
+ErrType(19): Pad near pad
+    @ (20.235 mm,160.020 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of REF**
+    @ (22.860 mm,160.020 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of REF**
+ErrType(19): Pad near pad
+    @ (21.004 mm,24.814 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of REF**
+    @ (22.860 mm,26.670 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of REF**
+ErrType(19): Pad near pad
+    @ (21.004 mm,28.526 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of REF**
+    @ (22.860 mm,26.670 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of REF**
+ErrType(19): Pad near pad
+    @ (21.004 mm,158.164 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of REF**
+    @ (22.860 mm,160.020 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of REF**
+ErrType(19): Pad near pad
+    @ (21.004 mm,161.876 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of REF**
+    @ (22.860 mm,160.020 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of REF**
+ErrType(19): Pad near pad
+    @ (22.860 mm,24.045 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of REF**
+    @ (22.860 mm,26.670 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of REF**
+ErrType(19): Pad near pad
+    @ (22.860 mm,26.670 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of REF**
+    @ (22.860 mm,29.295 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of REF**
+ErrType(19): Pad near pad
+    @ (22.860 mm,157.395 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of REF**
+    @ (22.860 mm,160.020 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of REF**
+ErrType(19): Pad near pad
+    @ (22.860 mm,160.020 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of REF**
+    @ (22.860 mm,162.645 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of REF**
+ErrType(19): Pad near pad
+    @ (161.205 mm,26.670 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of REF**
+    @ (163.830 mm,26.670 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of REF**
+ErrType(19): Pad near pad
+    @ (161.205 mm,160.020 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of REF**
+    @ (163.830 mm,160.020 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of REF**
+ErrType(19): Pad near pad
+    @ (161.974 mm,24.814 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of REF**
+    @ (163.830 mm,26.670 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of REF**
+ErrType(19): Pad near pad
+    @ (161.974 mm,28.526 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of REF**
+    @ (163.830 mm,26.670 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of REF**
+ErrType(19): Pad near pad
+    @ (161.974 mm,158.164 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of REF**
+    @ (163.830 mm,160.020 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of REF**
+ErrType(19): Pad near pad
+    @ (161.974 mm,161.876 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of REF**
+    @ (163.830 mm,160.020 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of REF**
+ErrType(19): Pad near pad
+    @ (163.830 mm,24.045 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of REF**
+    @ (163.830 mm,26.670 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of REF**
+ErrType(19): Pad near pad
+    @ (163.830 mm,26.670 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of REF**
+    @ (163.830 mm,29.295 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of REF**
+ErrType(19): Pad near pad
+    @ (163.830 mm,157.395 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of REF**
+    @ (163.830 mm,160.020 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of REF**
+ErrType(19): Pad near pad
+    @ (163.830 mm,160.020 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of REF**
+    @ (163.830 mm,162.645 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of REF**
+
+** Found 0 unconnected pads **
+
+** End of Report **
